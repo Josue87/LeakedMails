@@ -1,0 +1,14 @@
+geckodriver.log
+results/
+__pycache__/
+*.py[cod]
+*$py.class
+*egg*
+dist/
+build/
+.pyre/
+\.vscode/
+__pycache__/
+__pycache__
+/files
+\.DS_Store
