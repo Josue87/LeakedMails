@@ -69,3 +69,7 @@ The report is a .csv file containing 3 columns (email, name and date of the brea
 This project has been developed by:
 
 * **Josué Encinar García** -- [@JosueEncinar](https://twitter.com/JosueEncinar)
+
+## Note
+
+This tool is a PoC. If you use the service on a regular basis, I recommend paying for its API. The services have to be maintained.
